@@ -15,7 +15,7 @@
     <b>context="module"</b>
     only works once. In this way,
     I was able to change the variables
-    in it with a single component. <br><br>
+    in it with a single component type. <br><br>
     &emsp;If we want to share values to different
     components we can use <i>stores</i> for that
     (as it is said in the documentation.)
